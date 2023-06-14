@@ -34,7 +34,7 @@ The second step is too click on "Create Resource Group"
 <img src="https://i.ibb.co/Jmxx52d/Step3-1.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Once you click on "create resource group" it should take you too this screen. The third step will be too name your resource group and pick a region. Click "review and create" button once completed 
+Once you have clicked on "create resource group" it should take you too this screen. The third step will be too name your resource group and pick a region. Click the "review + create" button once completed 
 </p>
 <br />
 
