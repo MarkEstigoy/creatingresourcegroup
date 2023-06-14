@@ -50,5 +50,9 @@ Once you click on "create resource group" it should take you too this screen. Th
 
 Wait for the system too pass the validation. Once it reads "Validation Passed", click on the create button
 </p>
+<br />
+<br />
 <img src="https://i.ibb.co/Wt9qKVw/Step5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
 Congratulations! You now have created your own resource group
